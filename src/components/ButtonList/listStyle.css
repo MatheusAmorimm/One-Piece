@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: orange;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    width: 172px;
+    align-items: center;
+    
+    gap: 15px;
+
+    background: rgba(0,0,0, 0.3);
+}
+

@@ -1,0 +1,14 @@
+button {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+button img {
+    border-radius: 50%;
+
+    &:hover{
+        transform: scale(1.2);
+        box-shadow: 0 0 20px #D9D9D9;
+    }
+}

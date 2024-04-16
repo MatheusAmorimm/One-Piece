@@ -7,6 +7,6 @@ export default function Zoro() {
     <Card  
     name= "Zoro"
     image = {picture}
-    personDescription = "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga enim nemo aperiam ab vel eos rem vitae ipsa excepturi totam alias laboriosam, laudantium tempora quae et odit harum quos dolore!"/>
+    personDescription = "Primeiro pirata (segundo membro se contarmos com Luffy) a se juntar à tripulação de Piratas do Chapéu de Palha, Zoro aceitou o convite de Luffy após o capitão salvar sua vida."/>
   )
 }

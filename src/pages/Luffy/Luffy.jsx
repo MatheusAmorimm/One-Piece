@@ -1,7 +1,6 @@
 import React from 'react'
 import Card from '../../components/Cards/Card'
 import picture from '../../assets/images/character-image/luffy-picture.png'
-import ButtonList from '../../components/ButtonList/ButtonList'
 
 
 export default function Luffy() {
@@ -10,8 +9,7 @@ export default function Luffy() {
     <Card
     name="Monkey D. Luffy" 
     image = {picture}
-    personDescription = " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga enim nemo aperiam ab vel eos rem vitae ipsa excepturi totam alias laboriosam, laudantium tempora quae et odit harum quos dolore!"/>
-   
+    personDescription = "Luffy do Chapéu de Palha, como ficou conhecido, é o protagonista do anime, e o fundador e capitão da tripulação Piratas do Chapéu de Palha. Desde muito jovem, tem como seu maior sonho um dia encontrar o lendário tesouro de Gol D. Roger, para se tornar o novo Rei dos Piratas."/>
     </>
   )
 }

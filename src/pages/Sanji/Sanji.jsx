@@ -7,6 +7,6 @@ export default function Sanji() {
     <Card 
     name="Sanji" 
     image = {picture}
-    personDescription = " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga enim nemo aperiam ab vel eos rem vitae ipsa excepturi totam alias laboriosam, laudantium tempora quae et odit harum quos dolore!"/>
+    personDescription = "Também conhecido como Perna Negra Sanji, este pirata foi o quinto a integrar a tripulação de Luffy. Suas ações como pirata lhe renderam a terceira maior recompensa entre os membros do Chapéu de Palha, além de atuar como cozinheiro oficial do grupo."/>
   )
 }

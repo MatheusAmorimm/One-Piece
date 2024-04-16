@@ -1,0 +1,27 @@
+@media (max-width: 760px){
+    main::after {
+        background: linear-gradient(0deg, #000000 20%, rgba(0, 0, 0, 0.2) 65%) no-repeat;
+        width: 100vw;
+    }
+
+    .character-image {
+        height: 85%;
+    }
+
+    .content {
+        justify-content: flex-end;
+        left: 0;
+        top: -20%;
+        max-width: 100vw;
+        padding: 30px;
+    }
+
+    .character-name {
+        font-size: 36px;
+    }
+
+    .descricao {
+        max-width: 500px;
+    }
+
+ }

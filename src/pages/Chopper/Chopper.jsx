@@ -7,6 +7,6 @@ export default function Chopper() {
     <Card
     name = "Chopper"
     image = {picture}
-    personDescription = "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga enim nemo aperiam ab vel eos rem vitae ipsa excepturi totam alias laboriosam, laudantium tempora quae et odit harum quos dolore!"/>
+    personDescription = "Esta pequena rena ganhou a habilidade de mudar sua forma e de pensar como humanos após comer a fruta Hito Hito no Mi. Chopper é um valioso membro da tripulação dos Piratas do Chapéu de Palha, atuando como médico da tripulação."/>
   )
 }

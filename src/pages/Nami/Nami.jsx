@@ -7,6 +7,6 @@ export default function Nami() {
     <Card
     name="Nami" 
     image = {picture}
-    personDescription = " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga enim nemo aperiam ab vel eos rem vitae ipsa excepturi totam alias laboriosam, laudantium tempora quae et odit harum quos dolore!"/>
+    personDescription = "Orfã de guerra, ainda criança Nami foi adotada por Bell-mère, uma mulher da Marinha. Enquanto crescia ao lado de sua irmã adotiva Nojiko, Nami já demonstrava sua paixão por desenhar mapas, sonhando em um dia fazer o mapa de todo o mundo"/>
   )
 }
