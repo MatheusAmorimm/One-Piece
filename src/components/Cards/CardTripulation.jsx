@@ -7,7 +7,7 @@ export default function Card({image, name, personDescription}) {
   return (
     <main className='characters'>
     <div className='character'>
-      <img className='character-image' src={image} alt={`${name}`} />
+      <img className='character-image' src={image} alt={`${name}-picture`} />
       <div className='content'>
         <i className='logo'></i>
         <h2 className='character-name'>{name}</h2>

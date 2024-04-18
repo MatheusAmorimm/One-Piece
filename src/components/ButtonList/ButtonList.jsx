@@ -15,23 +15,23 @@ export default function ButtonList() {
   return (
     <ul>
       <NavLink to="/chopper">
-        <Button  alternative = {`tripulation picture`} image =  {chopperPicture}/>
+        <Button  alternative = {`Chopper tripulation picture`} image =  {chopperPicture}/>
       </NavLink>
       
       <NavLink to="/zoro">
-        <Button  alternative = {`tripulation picture`} image = {zoroPicture}/>
+        <Button  alternative = {`Zoro tripulation picture`} image = {zoroPicture}/>
       </NavLink>
 
       <NavLink to="/">
-        <Button  alternative = {`tripulation picture`} image = {luffyPicture}/>
+        <Button  alternative = {`Luffy tripulation picture`} image = {luffyPicture}/>
       </NavLink>
 
       <NavLink to="/nami">
-        <Button  alternative = {`tripulation picture`} image = {namiPicture}/>
+        <Button  alternative = {`Nami tripulation picture`} image = {namiPicture}/>
       </NavLink>
 
       <NavLink to="/sanji">
-        <Button  alternative = {`tripulation picture`} image = {sanjiPicture}/>
+        <Button  alternative = {`Sanji tripulation picture`} image = {sanjiPicture}/>
       </NavLink>
     </ul>
   )
