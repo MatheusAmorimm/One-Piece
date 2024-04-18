@@ -1,7 +1,6 @@
 import React from 'react'
 import ButtonList from '../ButtonList/ButtonList'
 import './cardStyle.css'
-import '../../styles/responsive.css'
 
 export default function Card({image, name, personDescription}) {
     

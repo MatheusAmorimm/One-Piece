@@ -1,7 +1,6 @@
 import { NavLink } from 'react-router-dom'
 import React from 'react'
 import './listStyle.css'
-import '../../styles/responsive.css'
 import Button from '../Button/Button'
 import luffyPicture from '../../assets/images/tripulacao-luffy.png'
 import chopperPicture from '../../assets/images/tripulacao-chopper.png'
